@@ -1,11 +1,11 @@
 # 👋 Hi, I'm [AKHTAR SHAIKH]
 
-💻 Python Developer | 📊 Data Analysis & BI Enthusiast | 🌱 Lifelong Learner  
+💻 Python Developer | 📊 Data Analysis | 🌱 Lifelong Learner  
 
 ---
 
 ## 🚀 About Me  
-- 💡 Interested in **Python Development** and **Data Analysis**  
+- 💡 Interested in **Learning Python** and **Data Analysis** 
 - 📊 Learning tools like **Excel, SQL, Pandas, NumPy, Power BI**  
 - 🌟 Passionate about solving problems with data  
 
@@ -29,8 +29,9 @@
 ---
 
 ## 🌱 Currently Learning  
-- Advanced Python (OOP, GUI)  
-- Data Visualization (Power BI, Matplotlib)  
+- Backend Python
+- Advance Excel 
+- Data Visualization (Power BI)  
 - SQL for Data Analysis  
 
 ---
